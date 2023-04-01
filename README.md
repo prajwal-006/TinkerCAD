@@ -1,6 +1,8 @@
 # TinkerCAD
 
 # Without LCD
+![image](https://user-images.githubusercontent.com/120716113/229308580-0ae9bcf4-3fd1-4da2-afea-c8b667d5ba87.png)
+
 ![WhatsApp Image 2023-03-16 at 22 24 32](https://user-images.githubusercontent.com/120716113/225695200-c2955b14-902c-4917-9544-e4680bae0497.jpg)
 
 
